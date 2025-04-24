@@ -14,7 +14,9 @@ Choose a Linux distro (Ubuntu is most common). Open it like a regular app and st
 Or Use VS Code by using this in PowerShell (as Admin):
 code install-extension ms-vscode-remote.remote-wsl
 
+![Terminal Commands](https://github.com/user-attachments/assets/695c1dde-05df-42a9-8535-104060065737)
 
+![VS Code Terminal Commands](https://github.com/user-attachments/assets/c40daee8-f5e2-463c-91fc-9189ef233e0a)
 
 2. Git Bash — Quick & Easy
 What it is: A lightweight Bash emulator that comes with Git for Windows.
