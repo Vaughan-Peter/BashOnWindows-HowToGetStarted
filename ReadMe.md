@@ -1,6 +1,7 @@
 Yes, you can use Bash programming on Windows! There are several ways to do it, depending on how deep you want to go and what you're using it for. Here are the main options:
 
 
+
 1. WSL (Windows Subsystem for Linux) — Best Option
 What it is: A full Linux environment running directly on Windows.
 
@@ -17,6 +18,8 @@ code install-extension ms-vscode-remote.remote-wsl
 ![Terminal Commands](https://github.com/user-attachments/assets/695c1dde-05df-42a9-8535-104060065737)
 
 ![VS Code Terminal Commands](https://github.com/user-attachments/assets/c40daee8-f5e2-463c-91fc-9189ef233e0a)
+
+
 
 2. Git Bash — Quick & Easy
 What it is: A lightweight Bash emulator that comes with Git for Windows.
